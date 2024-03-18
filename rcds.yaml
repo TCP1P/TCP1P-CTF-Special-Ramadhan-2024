@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/project/rcds.schema.yaml
+
+docker:
+  image:
+    prefix: "gcr.io/redpwn/challs"
+
+flagFormat: TCP1P\{[a-zA-Z0-9_,.'?!@$<>*:\-]*\}
+
+defaults:
+  containers:
+    resources:
+      limits:
+        cpu: 100m
+        memory: 150Mi
+      requests:
+        cpu: 10m
+        memory: 30Mi
+
+backends:
+  - resolve: rctf
+    options:
+      url: http://172.17.0.1
+      token: ""
+      scoring:
+        minPoints: 100
+        maxPoints: 500
