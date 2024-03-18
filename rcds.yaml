@@ -19,7 +19,7 @@ defaults:
 backends:
   - resolve: rctf
     options:
-      url: http://172.17.0.1
+      url: http://rctf
       token: "WgxArRfSrj5lSCy2cpdgE5sHbJDhNh7Upx3yVh7neGwfgjqPp6VFxzdH3yUvhAMmJrZxOPiOsLES8mvWkQYzkiRIeASYLTXRu1yc7fncxXHf2I1BscvzS062FpZM"
       scoring:
         minPoints: 100
