@@ -1,0 +1,10 @@
+version: '3'
+services:
+  radar:
+    image: radar
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "27429:27429"
