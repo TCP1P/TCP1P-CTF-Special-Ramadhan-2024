@@ -1,0 +1,10 @@
+version: '3'
+services:
+  pwn-3:
+    image: pwn-3
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "25204:25204"
