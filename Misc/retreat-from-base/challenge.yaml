@@ -5,9 +5,7 @@ author: Orch4th
 description: |-
   Dalam belajar CTF, kita bisa diibaratkan seperti tentara yang harus mengetahui kapan waktu untuk menyerang maju dan kapan waktu untuk **retreat** dan istirahat sejenak dari medan pertempuran.
 
-
 flag: TCP1P{r3tr34t_fr0m_m4ny_b4s3!!!}
 
 provide:
   - ./retreat.txt
-
