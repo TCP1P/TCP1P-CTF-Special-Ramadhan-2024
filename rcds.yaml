@@ -20,7 +20,7 @@ backends:
   - resolve: rctf
     options:
       url: http://rctf
-      token: "pY+uu2sdQle+HhDSagKw5S61LWYk5hDh+HZABHSKUcPAlll8l3eIxxBtBsAqBFxSMb1eEOkrJ7S3t9TbEWb369XN4ViYeshD41tKn17AHshCw4l3SHdKW/+fQTls"
+      token: "HKRQ3cFo+t6DXDalNKr7BzamcQvOkzKKCDzKOIu2bXe+22eN2/xDlpLzaucird/k3ahPXU3mu6VM2kWeDzrvFTdnwI2qo7AQjROKZDasHAnfdopLBe1wCMVlKpZY"
       scoring:
         minPoints: 100
         maxPoints: 500
