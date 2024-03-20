@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+    ret2win4:
+        build: src/
+        image: ret2win4
+        container_name: ret2win4
+        restart: always
+        ports:
+            - "19003:1470"
