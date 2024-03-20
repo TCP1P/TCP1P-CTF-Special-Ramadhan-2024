@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: xor
+author: BosToken
+description: |-
+  XOR adalah operator bitwise yang mengembalikan 0 jika bitnya sama, dan 1 jika bitnya sama.
+  ## Hints
+  - Jangan terpatok sama randomnya
+  - Coba bruteforce buat nemuin prefix flagnya
+
+flag: TCP1P{To_s0lv3_1t_juSt_us3_l0g1C_agalN}
+
+provide:
+  - ./chall.py
