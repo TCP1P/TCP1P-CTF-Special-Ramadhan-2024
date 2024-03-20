@@ -1,0 +1,14 @@
+<br>
+
+<p align="center">
+  <img src="./a37a557021409c41f53a8eae29aa0dc2.gif" width="400">
+</p>
+
+Survei/survey singkat.
+
+
+```
+nc xxx.xxx.xxx.xxx 27429
+```
+
+Author: **Brandy**
