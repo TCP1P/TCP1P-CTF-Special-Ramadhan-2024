@@ -1,6 +1,11 @@
 [config]
 url = https://ctf.tcp1p.team
-access_token =
+access_token = 
 
 [challenges]
-
+ip-what = Blockchain/ip-what
+samehadaku-kw-after-ctf = Web Exploitation/samehadaku-kw-after-ctf
+retreat-from-base = Misc/retreat-from-base
+xor = Cryptography/xor
+exec-me-where = Binary Exploitation/exec-me-where
+ret2win = Binary Exploitation/ret2win
