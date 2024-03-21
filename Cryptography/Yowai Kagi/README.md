@@ -1,0 +1,18 @@
+# Yowai Kagi
+
+## Overview & Description
+
+Author: BosToken
+
+Terinspirasi dari Compfest 15 Hackerclass ;)
+
+## Hints
+- Jika n adalah prima, maka n - 1
+
+## TL;DR
+- Peserta mendownload file yang diberikan yaitu chall.py dan output.txt.
+- Peserta melakukan analisa terhadap rumus RSA.
+- Peserta melakukan proses dekripsi dengan hint yang sudah diberikan.
+
+## Flag
+TCP1P{th4tS_k3y_1s_t00_We4K}
