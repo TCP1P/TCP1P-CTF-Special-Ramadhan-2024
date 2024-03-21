@@ -1,0 +1,6 @@
+services:
+  server:
+    build: .
+    ports:
+      - 5001:5000
+version: "3.9"
