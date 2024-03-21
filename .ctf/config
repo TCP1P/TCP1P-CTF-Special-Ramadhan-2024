@@ -9,6 +9,6 @@ retreat-from-base = Misc/retreat-from-base
 xor = Cryptography/xor
 exec-me-where = Binary Exploitation/exec-me-where
 ret2win = Binary Exploitation/ret2win
-Jawat = Web Exploitation/Jawat
+jawat = Web Exploitation/jawat
 cacing-besar-alaska = Cryptography/cacing-besar-alaska
 ret2win 2 = Binary Exploitation/ret2win 2
