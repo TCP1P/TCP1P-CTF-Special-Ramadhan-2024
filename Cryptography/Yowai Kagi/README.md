@@ -4,6 +4,8 @@
 
 Author: BosToken
 
+Difficulty: Beginner Friendly
+
 Terinspirasi dari Compfest 15 Hackerclass ;)
 
 ## Hints
