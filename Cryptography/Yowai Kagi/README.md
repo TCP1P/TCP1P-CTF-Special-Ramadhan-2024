@@ -8,9 +8,6 @@ Difficulty: Beginner Friendly
 
 Terinspirasi dari Compfest 15 Hackerclass ;)
 
-## Hints
-- Jika n adalah prima, maka n - 1
-
 ## TL;DR
 - Peserta mendownload file yang diberikan yaitu chall.py dan output.txt.
 - Peserta melakukan analisa terhadap rumus RSA.
