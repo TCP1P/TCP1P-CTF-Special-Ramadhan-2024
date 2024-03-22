@@ -1,0 +1,13 @@
+author: beluga
+description: |-
+  This challenge require you to exploit simple XPath Injection and retrieve flag inside of an XML Document.
+
+  Connect: http://103.185.44.122:33121
+flag:
+  file: ./src/ExPath1/flag.txt
+name: ExPath1
+provide:
+  - ./chall.zip
+script:
+  start: (cd ./src/ExPath1 && docker compose up --build --detach)
+  stop: (cd ./src/ExPath1 && docker compose down --volumes)
