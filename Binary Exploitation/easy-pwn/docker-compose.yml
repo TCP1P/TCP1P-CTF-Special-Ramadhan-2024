@@ -1,0 +1,10 @@
+version: '3'
+services:
+  easy-pwn:
+    image: easy-pwn
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "15118:15118"
