@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  ayamgeprek:
+    build:
+      context: ./chall
+      dockerfile: Dockerfile
+    ports:
+      - "18921:12000"
+    hostname: chall_ayamgeprek
