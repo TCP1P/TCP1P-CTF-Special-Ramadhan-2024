@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  flaskapp:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "33121:5000"
+    volumes:
+      - ./app:/app
+    environment:
+      - FLASK_APP=app.py
+      - FLASK_ENV=development
+  

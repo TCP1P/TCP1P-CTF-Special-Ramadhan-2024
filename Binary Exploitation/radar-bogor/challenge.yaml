@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: Radar Bogor
+author: Brandy
+description: |-
+  Survei/survey singkat.
+
+  Connect: nc 103.185.44.122 27429
+
+flag:
+  file: ./flag.txt
+
+provide:
+  - ./deploy/radar
+
+script:
+  start: (docker compose up --build -d)
+  stop: (docker compose down)

@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: Easy PWN
+author: valcaries
+description: |-
+  Can you identify and exploit the bug lies in this bad login app? I'm sure you can't login as admin!
+
+  Connect: nc 103.185.44.122 15118
+
+flag:
+  file: ./flag.txt
+
+provide:
+  - ./deploy/easy-pwn
+
+script:
+  start: (docker compose up --build -d)
+  stop: (docker compose down)

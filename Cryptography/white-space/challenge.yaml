@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: White Space
+author: BosToken
+description: |-
+  KOSONG ?!?!?!?!
+  Astaghfirullahaladzim !!!
+
+  https://youtu.be/WvEbvShTss4?si=zl075Vh6DpFEX7Rp
+
+  ## Hints
+  - Jangan terpatok sama randomnya
+  - Coba bruteforce buat nemuin prefix flagnya
+
+
+flag: TCP1P{I_h4Ve_TrIed_noT_t0_Be_se3n}
+
+provide:
+  - output.txt
+  - chall.py

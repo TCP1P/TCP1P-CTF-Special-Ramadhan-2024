@@ -15,3 +15,7 @@ ret2win-2 = Binary Exploitation/ret2win-2
 cracknosaurus = Forensics/cracknosaurus
 cra = Cryptography/cra
 oasis = Binary Exploitation/oasis
+white-space = Cryptography/white-space
+expath1 = Web Exploitation/expath1
+easy-pwn = Binary Exploitation/easy-pwn
+radar-bogor = Binary Exploitation/radar-bogor
