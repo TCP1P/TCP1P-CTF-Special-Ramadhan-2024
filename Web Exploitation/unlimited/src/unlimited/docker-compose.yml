@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  otp:
+    build:
+      context: app
+    stop_signal: SIGINT
+    ports:
+      - '7313:5000'

@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  commandinjection:
+    build:
+      context: app
+    stop_signal: SIGINT
+    ports:
+      - '6779:5000'
