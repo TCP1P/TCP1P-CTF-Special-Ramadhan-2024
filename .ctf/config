@@ -20,4 +20,5 @@ expath1 = Web Exploitation/expath1
 easy-pwn = Binary Exploitation/easy-pwn
 radar-bogor = Binary Exploitation/radar-bogor
 mini-rev = Reverse Engineering/mini-rev
-mini-rev = Reverse Engineering/micro-rev
+micro-rev = Reverse Engineering/micro-rev
+unlimited = Web Exploitation/unlimited

@@ -5,7 +5,7 @@ author: Dimas Maulana
 description: |-
   First C reverse engineering challenge :P
 
-flag: TCP1P{mini_rev_for_mini_challenge_XD}
+flag: TCP1P{micro_challenge_for_c_reverser_XP}
 
 provide:
   - enc.txt
