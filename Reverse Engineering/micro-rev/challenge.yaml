@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
 
-name: Mini Rev
+name: Micro Rev
 author: Dimas Maulana
 description: |-
-  First C++ reverse engineering challenge :P
+  First C reverse engineering challenge :P
 
 flag: TCP1P{mini_rev_for_mini_challenge_XD}
 
