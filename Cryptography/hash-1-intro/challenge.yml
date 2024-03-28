@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: "Hash 1: intro"
+author: k1nomi
+description: |-
+    Hashing adalah sebuah metode untuk mengubah data menjadi sebuah string yang panjangnya tetap. Algoritma hash merupakan fungsi satu arah, artinya apabila diberikan hasil hash dari suatu data, akan sangat sulit untuk menerka data aslinya. Oleh karena itu, biasanya password disimpan di database dalam bentuk hash. 
+
+Meskipun begitu, untuk beberapa value hash, kita bisa mengetahui data aslinya menggunakan tool yang tersedia online. Untuk soal ini, cobalah "crack" beberapa value hash MD5 pada `hashes.txt`.
+
+flag: TCP1P{d0nt_us3_sh0rt_p4ssw0rds}
+
+provide:
+    - ./hashes.txt
