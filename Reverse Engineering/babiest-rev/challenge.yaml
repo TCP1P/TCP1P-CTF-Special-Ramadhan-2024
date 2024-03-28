@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: Babiest Rev
+author: aseng
+description: |-
+  What is cross-reference anyway?
+
+flag: TCP1P{g0_w1th_the_fl0w!}
+
+provide:
+  - ./ezgo.exe
