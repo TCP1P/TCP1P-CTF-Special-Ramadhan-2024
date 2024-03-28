@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: Nearly NULL
+author: cipichop
+description: |-
+  I have a document to be reviewed, but i cannot even extract it from the archive.
+
+flag: TCP1P{UuUuU_n0w_y0u_c4n_r3v3aL_mY_s3cr3t}
+
+provide:
+  - document.zip
