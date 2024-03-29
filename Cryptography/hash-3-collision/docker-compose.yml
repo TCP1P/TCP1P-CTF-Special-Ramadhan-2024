@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  hash-collision:
+    build: .
+    image: hash-collision
+    container_name: hash-collision
+    restart: always
+    network_mode: bridge
+    read_only: True
+    ports:
+      - "21001:1601"
+

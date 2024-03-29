@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: "Hash 2: One-Way Function"
+author: k1nomi
+description: |-
+    Untuk challenge ini aku telah membuat banyak flag tapi bingung mau pilih yang mana. Yasudahlah, aku pilih random saja~. Dari value hash yang diberikan, bisakah kamu mengetahui flag mana yang kupilih??
+
+flag: TCP1P{th3r3_1s_n0_w4y_b4ck}
+
+provide:
+    - ./chall.py
+    - ./flags.txt

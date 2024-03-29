@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: "Hash 3: Collision"
+author: k1nomi
+description: |-
+    Aku baru saja membuat sebuah aplikasi yang akan memberikan flag pada user selama user itu telah terdaftar dalam sistem. Di sini aku berikan saja database username dan password mereka hehe. Selama sudah di-hash, password mereka akan aman... kan?
+
+    Connect ke 
+
+flag: TCP1P{th3r3_1s_n0_w4y_b4ck}
+
+provide:
+    - ./chall.py
+    - ./flags.txt
+
+script:
+  start: (docker compose up --build --detach)
+  stop: (docker compose down --volumes)
