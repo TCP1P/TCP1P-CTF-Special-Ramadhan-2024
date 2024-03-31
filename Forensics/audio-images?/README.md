@@ -1,5 +1,8 @@
 # Audio Images
 
+## Author
+Orch4th
+
 ## Description
 
 Hello everyone and welcome to the future where now a picture can make a sound. But the future also have a problems, so we need your help
