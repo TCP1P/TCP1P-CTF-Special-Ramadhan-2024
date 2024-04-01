@@ -37,4 +37,4 @@ hash-2-one-way-function = Cryptography/hash-2-one-way-function
 hash-3-collision = Cryptography/hash-3-collision
 otp = Cryptography/otp
 yowai-kagi = Cryptography/yowai-kagi
-basic_cache_poison = Binary Exploitation/basic_cache_poison
+basic-cache-poison = Binary Exploitation/basic-cache-poison
