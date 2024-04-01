@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: Geprek
+author: n4siKun1ng
+description: |-
+    Implementasi lanjutan tentang gerbang logika xor.
+
+    Coba baca-baca cara xor bekerja dan implementasikan untuk dapat flag di sistem ini.
+
+    Jangan lupa connect dengan netcat.
+
+    connect: nc 103.185.44.122 18921
+
+    ## Hints
+    - Jangan terpatok sama randomnya
+    - Coba bruteforce buat nemuin prefix flagnya
+
+
+flag: TCP1P{dil4rang_m4kan_4yaM_g3prEk_di_s1ang_hAri_s3lamA_ramadhann}
+
+provide:
+    - ./ayam_geprek
+
+script:
+  start: (docker compose up --build --detach)
+  stop: (docker compose down --volumes)

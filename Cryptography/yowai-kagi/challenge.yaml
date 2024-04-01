@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: Yowai Kagi
+author: BosToken
+description: |-
+  Terinspirasi dari Compfest 15 Hackerclass ;)
+
+flag: TCP1P{th4tS_k3y_1s_t00_We4K}
+
+provide:
+  - output.txt
+  - chall.py
