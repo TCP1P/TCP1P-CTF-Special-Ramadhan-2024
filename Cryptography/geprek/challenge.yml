@@ -19,7 +19,7 @@ description: |-
 flag: TCP1P{dil4rang_m4kan_4yaM_g3prEk_di_s1ang_hAri_s3lamA_ramadhann}
 
 provide:
-    - ./ayam_geprek
+    - ./ayam_geprek.py
 
 script:
   start: (docker compose up --build --detach)
