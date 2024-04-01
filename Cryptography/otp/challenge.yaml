@@ -8,7 +8,7 @@ description: |-
     kedua yaitu "dengan menyelesaikan tantangan keamanan dalam tim atau individu". Setiap kali pesan itu
     dikirim selalu saja ada sebuah keterangan panjang key 32, saya terlalu capek untuk berpikir tolonglah bantu...
 
-    note: jika flag format TCP1P{.*}
+    note: flag format TCP1P{.*}
 flag: TCP1P{p3serTa_harUs_m3nemUkan_daN_m3ngeksplOitas1_ker3ntanan_s1st3m}
 
 provide:
