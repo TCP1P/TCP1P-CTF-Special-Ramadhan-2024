@@ -1,0 +1,14 @@
+author: 404Gh0st
+description: |-
+  When else will there be action figure wholesalers? Come and check our website for affordable prices.
+  Connect: http://103.185.44.122:30032
+
+  ## Hint
+  Pastikan debug secara lokal terlebih dahulu
+flag: TCP1P{looks_like_devs_are_not_learning_from_their_mistakes}
+name: Action Figures
+provide:
+  - ./dist.zip
+script:
+  start: (cd ./src/action-figures && docker compose up --build --detach)
+  stop: (cd ./src/action-figures && docker compose down --volumes)

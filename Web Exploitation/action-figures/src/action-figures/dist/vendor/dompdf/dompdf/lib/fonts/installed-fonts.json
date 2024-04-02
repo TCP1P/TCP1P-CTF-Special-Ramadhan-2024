@@ -1,0 +1,11 @@
+{
+    "exploit": {
+        "normal": "exploit_normal_ffc0924f2b3017c61b88b426a5add28c"
+    },
+    "exploit2": {
+        "normal": "exploit2_normal_ffc0924f2b3017c61b88b426a5add28c"
+    },
+    "exploit3": {
+        "normal": "exploit3_normal_ffc0924f2b3017c61b88b426a5add28c"
+    }
+}

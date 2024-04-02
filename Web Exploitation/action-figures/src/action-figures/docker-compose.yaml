@@ -1,0 +1,6 @@
+services:
+  action_figures:
+    build: .
+    ports:
+      - 30032:30032
+    restart: always
