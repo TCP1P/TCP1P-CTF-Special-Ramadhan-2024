@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/redpwn/rcds/master/rcds/challenge/challenge.schema.yaml
+
+name: Random XOR
+author: 404Gh0st
+description: |-
+  Hanya program simpel untuk enkripsi sebuah file.
+
+flag: TCP1P{p53uDO_RANDOM_IS_NOt_R4ndOM_at_A11}
+
+provide:
+  - ./src/random-xor/encrypt
+  - ./src/random-xor/flag_enc.txt
