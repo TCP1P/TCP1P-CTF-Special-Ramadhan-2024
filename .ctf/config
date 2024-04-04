@@ -38,3 +38,5 @@ hash-3-collision = Cryptography/hash-3-collision
 otp = Cryptography/otp
 yowai-kagi = Cryptography/yowai-kagi
 basic-cache-poison = Binary Exploitation/basic-cache-poison
+action-figures = Web Exploitation/action-figures
+random-xor = Reverse Engineering/random-xor
