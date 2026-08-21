@@ -1,0 +1,19 @@
+name: Retreat From Base
+author: Orch4th
+description: 'Dalam belajar CTF, kita bisa diibaratkan seperti tentara yang harus mengetahui kapan waktu untuk menyerang maju dan kapan waktu untuk **retreat** dan istirahat sejenak dari medan pertempuran.
+
+
+  hint: https://github.com/mufeedvh/basecrack
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Misc/retreat-from-base).'
+type: StaticAttachment
+category: Misc
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{r3tr34t_fr0m_m4ny_b4s3!!!}
+provide: dist

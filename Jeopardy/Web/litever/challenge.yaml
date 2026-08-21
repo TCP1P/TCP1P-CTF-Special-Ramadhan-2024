@@ -1,0 +1,18 @@
+name: litever
+author: replican
+description: 'How i can fetch the flag :(
+
+  Connect: http://103.185.44.122:5001
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/literver).'
+type: StaticAttachment
+category: Web
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{n1c3_1nj3ct_b3g1n_1337rep}
+provide: dist

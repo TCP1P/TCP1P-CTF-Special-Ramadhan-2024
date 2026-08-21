@@ -1,0 +1,23 @@
+name: Action Figures
+author: 404Gh0st
+description: 'When else will there be action figure wholesalers? Come and check our website for affordable prices.
+
+  Connect: http://103.185.44.122:30032
+
+
+  ## Hint
+
+  Pastikan debug secara lokal terlebih dahulu
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/action-figures).'
+type: StaticAttachment
+category: Web
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{looks_like_devs_are_not_learning_from_their_mistakes}
+provide: dist

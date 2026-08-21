@@ -1,0 +1,16 @@
+name: Nearly NULL
+author: cipichop
+description: 'I have a document to be reviewed, but i cannot even extract it from the archive.
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Forensics/nearly-null).'
+type: StaticAttachment
+category: Forensics
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{UuUuU_n0w_y0u_c4n_r3v3aL_mY_s3cr3t}
+provide: dist

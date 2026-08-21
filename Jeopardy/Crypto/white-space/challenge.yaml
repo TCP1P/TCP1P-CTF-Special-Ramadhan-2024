@@ -1,0 +1,28 @@
+name: White Space
+author: BosToken
+description: 'KOSONG ?!?!?!?!
+
+  Astaghfirullahaladzim !!!
+
+
+  https://youtu.be/WvEbvShTss4?si=zl075Vh6DpFEX7Rp
+
+
+  ## Hints
+
+  - Jangan terpatok sama randomnya
+
+  - Coba bruteforce buat nemuin prefix flagnya
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/white-space).'
+type: StaticAttachment
+category: Crypto
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{I_h4Ve_TrIed_noT_t0_Be_se3n}
+provide: dist

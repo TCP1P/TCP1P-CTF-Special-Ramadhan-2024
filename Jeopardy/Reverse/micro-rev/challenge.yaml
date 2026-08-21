@@ -1,0 +1,16 @@
+name: Micro Rev
+author: Dimas Maulana
+description: 'First C reverse engineering challenge :P
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Reverse%20Engineering/micro-rev).'
+type: StaticAttachment
+category: Reverse
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{micro_challenge_for_c_reverser_XP}
+provide: dist

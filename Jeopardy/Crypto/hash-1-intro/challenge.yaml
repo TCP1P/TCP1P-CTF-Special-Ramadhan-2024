@@ -1,0 +1,19 @@
+name: 'Hash 1: intro'
+author: k1nomi
+description: 'Hashing adalah sebuah metode untuk mengubah data menjadi sebuah string yang panjangnya tetap. Algoritma hash merupakan fungsi satu arah, artinya apabila diberikan hasil hash dari suatu data, akan sangat sulit untuk menerka data aslinya. Oleh karena itu, biasanya password disimpan di database dalam bentuk hash.
+
+
+  Meskipun begitu, untuk beberapa value hash, kita bisa mengetahui data aslinya menggunakan tool yang tersedia online. Untuk soal ini, cobalah "crack" beberapa value hash MD5 pada `hashes.txt`.
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/hash-1-intro).'
+type: StaticAttachment
+category: Crypto
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{d0nt_us3_sh0rt_p4ssw0rds}
+provide: dist

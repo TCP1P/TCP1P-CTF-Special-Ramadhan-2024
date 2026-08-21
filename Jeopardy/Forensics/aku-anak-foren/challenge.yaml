@@ -1,0 +1,16 @@
+name: Aku Anak Foren
+author: Dimas Maulana
+description: 'Aku mencoba untuk mengirimkan pesan rahasia ke google :)
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Forensics/aku-anak-foren).'
+type: StaticAttachment
+category: Forensics
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{networking_forensic_is_always_fun_right_hehe}
+provide: dist

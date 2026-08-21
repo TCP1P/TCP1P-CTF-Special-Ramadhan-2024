@@ -1,0 +1,16 @@
+name: Yowai Kagi
+author: BosToken
+description: 'Terinspirasi dari Compfest 15 Hackerclass ;)
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/yowai-kagi).'
+type: StaticAttachment
+category: Crypto
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{th4tS_k3y_1s_t00_We4K}
+provide: dist

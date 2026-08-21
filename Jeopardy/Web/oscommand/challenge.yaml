@@ -1,0 +1,24 @@
+name: oscommand
+author: 53buahapel
+description: 'Flag folder is in / directory. Find a way to get it.
+
+
+  restricted:
+
+  ['';'', ''&'', ''|'', ''||'', ''&&'', ''>'', ''<'', ''('', '')'', ''{'', ''}'', ''['', '']'', ''\\'', ''\'''', ''"'', ''!'', ''*'', ''?'', ''~'', ''#'', ''%'', ''+'', '' '']
+
+
+  Connect: http://103.185.44.122:6779
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/oscommand).'
+type: StaticAttachment
+category: Web
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{007150786cd8158d85d4d9445115857a82adc67310b8f78a011b9557dd540593}
+provide: dist

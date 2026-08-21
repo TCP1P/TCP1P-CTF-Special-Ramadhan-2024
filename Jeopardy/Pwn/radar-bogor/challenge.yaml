@@ -1,0 +1,19 @@
+name: Radar Bogor
+author: Brandy
+description: 'Survei/survey singkat.
+
+
+  Connect: nc 103.185.44.122 27429
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/radar-bogor).'
+type: StaticAttachment
+category: Pwn
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{B4s1c_g0T_0veRwR1t3_w1th_f0rm4T_5tR1NGS_VuLn}
+provide: dist

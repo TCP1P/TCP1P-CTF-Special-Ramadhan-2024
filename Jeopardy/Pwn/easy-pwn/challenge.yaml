@@ -1,0 +1,19 @@
+name: Easy PWN
+author: valcaries
+description: 'Can you identify and exploit the bug lies in this bad login app? I''m sure you can''t login as admin!
+
+
+  Connect: nc 103.185.44.122 15118
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/easy-pwn).'
+type: StaticAttachment
+category: Pwn
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{4ku_5uK4_2Is0Ll}
+provide: dist

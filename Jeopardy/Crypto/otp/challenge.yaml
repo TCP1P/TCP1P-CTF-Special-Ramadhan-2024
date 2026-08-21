@@ -1,0 +1,25 @@
+name: OTP
+author: n4siKun1ng
+description: 'Ketika ngopi di cafe saya iseng untuk melakukan capture sebuah jaringan wifi. Secara tidak sengaja
+
+  saya mendapatkan 3 pesan yang terenkripsi, saya coba analisa dan ternyata bisa didapatkan pesan
+
+  kedua yaitu "dengan menyelesaikan tantangan keamanan dalam tim atau individu". Setiap kali pesan itu
+
+  dikirim selalu saja ada sebuah keterangan panjang key 32, saya terlalu capek untuk berpikir tolonglah bantu...
+
+
+  note: flag format TCP1P{.*}
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/otp).'
+type: StaticAttachment
+category: Crypto
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{p3serTa_harUs_m3nemUkan_daN_m3ngeksplOitas1_ker3ntanan_s1st3m}
+provide: dist

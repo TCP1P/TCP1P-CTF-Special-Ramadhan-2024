@@ -1,0 +1,19 @@
+name: Oasis
+author: Brandy
+description: 'Help Oscar to gain the mystic power!
+
+
+  Connect: nc 103.185.44.122 27428
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/oasis).'
+type: StaticAttachment
+category: Pwn
+minScoreRate: 0.25
+difficulty: 5
+disableBloodBonus: false
+flags:
+- TCP1P{Y0u_G4iNN_1t_bR0tHaa}
+provide: dist

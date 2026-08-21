@@ -1,0 +1,411 @@
+{
+  "sourceRepository": "TCP1P/TCP1P-CTF-Special-Ramadhan-2024",
+  "targetRepository": "TCP1P/TCP1P-CTF-Special-Ramadhan-2024",
+  "private": false,
+  "events": [
+    "TCP1P CTF Special Ramadhan 2024"
+  ],
+  "challenges": [
+    {
+      "name": "Easy PWN",
+      "category": "Pwn",
+      "source": "Binary Exploitation/easy-pwn/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/easy-pwn",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Pwn/easy-pwn/challenge.yaml"
+    },
+    {
+      "name": "Exec Me Where",
+      "category": "Pwn",
+      "source": "Binary Exploitation/exec-me-where/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/exec-me-where",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Pwn/exec-me-where/challenge.yaml"
+    },
+    {
+      "name": "Oasis",
+      "category": "Pwn",
+      "source": "Binary Exploitation/oasis/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/oasis",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Pwn/oasis/challenge.yaml"
+    },
+    {
+      "name": "Radar Bogor",
+      "category": "Pwn",
+      "source": "Binary Exploitation/radar-bogor/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/radar-bogor",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Pwn/radar-bogor/challenge.yaml"
+    },
+    {
+      "name": "ret2win",
+      "category": "Pwn",
+      "source": "Binary Exploitation/ret2win/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/ret2win",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Pwn/ret2win/challenge.yaml"
+    },
+    {
+      "name": "ret2win 2",
+      "category": "Pwn",
+      "source": "Binary Exploitation/ret2win-2/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/ret2win-2",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Pwn/ret2win-2/challenge.yaml"
+    },
+    {
+      "name": "ret2win 3",
+      "category": "Pwn",
+      "source": "Binary Exploitation/ret2win-3/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/ret2win-3",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Pwn/ret2win-3/challenge.yaml"
+    },
+    {
+      "name": "ret2win 4",
+      "category": "Pwn",
+      "source": "Binary Exploitation/ret2win-4/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/ret2win-4",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Pwn/ret2win-4/challenge.yaml"
+    },
+    {
+      "name": "IP What?",
+      "category": "Blockchain",
+      "source": "Blockchain/ip-what/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Blockchain/ip-what",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment",
+        "no player attachment files were present"
+      ],
+      "manifest": "Jeopardy/Blockchain/ip-what/challenge.yaml"
+    },
+    {
+      "name": "Cacing Besar Alaska",
+      "category": "Crypto",
+      "source": "Cryptography/cacing-besar-alaska/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/cacing-besar-alaska",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment",
+        "no player attachment files were present"
+      ],
+      "manifest": "Jeopardy/Crypto/cacing-besar-alaska/challenge.yaml"
+    },
+    {
+      "name": "CRA",
+      "category": "Crypto",
+      "source": "Cryptography/cra/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/cra",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Crypto/cra/challenge.yaml"
+    },
+    {
+      "name": "euclid's apprentice",
+      "category": "Crypto",
+      "source": "Cryptography/euclids-apprentice/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/euclids-apprentice",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Crypto/euclid-s-apprentice/challenge.yaml"
+    },
+    {
+      "name": "Geprek",
+      "category": "Crypto",
+      "source": "Cryptography/geprek/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/geprek",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Crypto/geprek/challenge.yaml"
+    },
+    {
+      "name": "Hash 1: intro",
+      "category": "Crypto",
+      "source": "Cryptography/hash-1-intro/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/hash-1-intro",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Crypto/hash-1-intro/challenge.yaml"
+    },
+    {
+      "name": "Hash 2: One-Way Function",
+      "category": "Crypto",
+      "source": "Cryptography/hash-2-one-way-function/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/hash-2-one-way-function",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Crypto/hash-2-one-way-function/challenge.yaml"
+    },
+    {
+      "name": "Hash 3: Collision",
+      "category": "Crypto",
+      "source": "Cryptography/hash-3-collision/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/hash-3-collision",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Crypto/hash-3-collision/challenge.yaml"
+    },
+    {
+      "name": "OTP",
+      "category": "Crypto",
+      "source": "Cryptography/otp/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/otp",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Crypto/otp/challenge.yaml"
+    },
+    {
+      "name": "White Space",
+      "category": "Crypto",
+      "source": "Cryptography/white-space/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/white-space",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Crypto/white-space/challenge.yaml"
+    },
+    {
+      "name": "xor",
+      "category": "Crypto",
+      "source": "Cryptography/xor/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/xor",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Crypto/xor/challenge.yaml"
+    },
+    {
+      "name": "Yowai Kagi",
+      "category": "Crypto",
+      "source": "Cryptography/yowai-kagi/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/yowai-kagi",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Crypto/yowai-kagi/challenge.yaml"
+    },
+    {
+      "name": "Aku Anak Foren",
+      "category": "Forensics",
+      "source": "Forensics/aku-anak-foren/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Forensics/aku-anak-foren",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Forensics/aku-anak-foren/challenge.yaml"
+    },
+    {
+      "name": "Audio Images ?",
+      "category": "Forensics",
+      "source": "Forensics/audio-images/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Forensics/audio-images",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment",
+        "no player attachment files were present"
+      ],
+      "manifest": "Jeopardy/Forensics/audio-images/challenge.yaml"
+    },
+    {
+      "name": "Cracknosaurus",
+      "category": "Forensics",
+      "source": "Forensics/cracknosaurus/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Forensics/cracknosaurus",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Forensics/cracknosaurus/challenge.yaml"
+    },
+    {
+      "name": "Nearly NULL",
+      "category": "Forensics",
+      "source": "Forensics/nearly-null/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Forensics/nearly-null",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Forensics/nearly-null/challenge.yaml"
+    },
+    {
+      "name": "Retreat From Base",
+      "category": "Misc",
+      "source": "Misc/retreat-from-base/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Misc/retreat-from-base",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Misc/retreat-from-base/challenge.yaml"
+    },
+    {
+      "name": "Babiest Rev",
+      "category": "Reverse",
+      "source": "Reverse Engineering/babiest-rev/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Reverse%20Engineering/babiest-rev",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Reverse/babiest-rev/challenge.yaml"
+    },
+    {
+      "name": "Micro Rev",
+      "category": "Reverse",
+      "source": "Reverse Engineering/micro-rev/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Reverse%20Engineering/micro-rev",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Reverse/micro-rev/challenge.yaml"
+    },
+    {
+      "name": "Mini Rev",
+      "category": "Reverse",
+      "source": "Reverse Engineering/mini-rev/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Reverse%20Engineering/mini-rev",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Reverse/mini-rev/challenge.yaml"
+    },
+    {
+      "name": "Random XOR",
+      "category": "Reverse",
+      "source": "Reverse Engineering/random-xor/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Reverse%20Engineering/random-xor",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Reverse/random-xor/challenge.yaml"
+    },
+    {
+      "name": "Action Figures",
+      "category": "Web",
+      "source": "Web Exploitation/action-figures/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/action-figures",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Web/action-figures/challenge.yaml"
+    },
+    {
+      "name": "ExPath1",
+      "category": "Web",
+      "source": "Web Exploitation/expath1/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/expath1",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Web/expath1/challenge.yaml"
+    },
+    {
+      "name": "litever",
+      "category": "Web",
+      "source": "Web Exploitation/literver/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/literver",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Web/litever/challenge.yaml"
+    },
+    {
+      "name": "oscommand",
+      "category": "Web",
+      "source": "Web Exploitation/oscommand/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/oscommand",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment",
+        "no player attachment files were present"
+      ],
+      "manifest": "Jeopardy/Web/oscommand/challenge.yaml"
+    },
+    {
+      "name": "Samehadaku KW After CTF",
+      "category": "Web",
+      "source": "Web Exploitation/samehadaku-kw-after-ctf/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/samehadaku-kw-after-ctf",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Web/samehadaku-kw-after-ctf/challenge.yaml"
+    },
+    {
+      "name": "unlimited",
+      "category": "Web",
+      "source": "Web Exploitation/unlimited/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/unlimited",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment",
+        "no player attachment files were present"
+      ],
+      "manifest": "Jeopardy/Web/unlimited/challenge.yaml"
+    },
+    {
+      "name": "Jawat",
+      "category": "Web",
+      "source": "Web Exploitation/web-jawat/challenge.yaml",
+      "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/web-jawat",
+      "type": "StaticAttachment",
+      "warnings": [
+        "missing legacy type converted to StaticAttachment"
+      ],
+      "manifest": "Jeopardy/Web/jawat/challenge.yaml"
+    }
+  ]
+}
