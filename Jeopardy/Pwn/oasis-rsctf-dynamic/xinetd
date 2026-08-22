@@ -1,0 +1,14 @@
+service pwn-level-0.8
+{
+        disable = no
+        socket_type = stream
+        protocol = tcp
+        wait = no
+        user = cyberyolk
+        type = UNLISTED
+        port = 27428
+        bind = 0.0.0.0
+        server = /home/cyberyolk/run
+        per_source = 10
+        rlimit_cpu = 20
+}

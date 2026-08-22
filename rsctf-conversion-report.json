@@ -11,88 +11,120 @@
       "category": "Pwn",
       "source": "Binary Exploitation/easy-pwn/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/easy-pwn",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{easy_pwn_[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Pwn/easy-pwn/challenge.yaml"
+      "manifest": "Jeopardy/Pwn/easy-pwn-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Exec Me Where",
       "category": "Pwn",
       "source": "Binary Exploitation/exec-me-where/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/exec-me-where",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{exec_me_where[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Pwn/exec-me-where/challenge.yaml"
+      "manifest": "Jeopardy/Pwn/exec-me-where-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Oasis",
       "category": "Pwn",
       "source": "Binary Exploitation/oasis/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/oasis",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{oasi[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Pwn/oasis/challenge.yaml"
+      "manifest": "Jeopardy/Pwn/oasis-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Radar Bogor",
       "category": "Pwn",
       "source": "Binary Exploitation/radar-bogor/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/radar-bogor",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{radar_bogor_________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Pwn/radar-bogor/challenge.yaml"
+      "manifest": "Jeopardy/Pwn/radar-bogor-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "ret2win",
       "category": "Pwn",
       "source": "Binary Exploitation/ret2win/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/ret2win",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{ret2win____________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Pwn/ret2win/challenge.yaml"
+      "manifest": "Jeopardy/Pwn/ret2win-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "ret2win 2",
       "category": "Pwn",
       "source": "Binary Exploitation/ret2win-2/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/ret2win-2",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{ret2win_2___________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Pwn/ret2win-2/challenge.yaml"
+      "manifest": "Jeopardy/Pwn/ret2win-2-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "ret2win 3",
       "category": "Pwn",
       "source": "Binary Exploitation/ret2win-3/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/ret2win-3",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{ret2win_3_____________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Pwn/ret2win-3/challenge.yaml"
+      "manifest": "Jeopardy/Pwn/ret2win-3-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "ret2win 4",
       "category": "Pwn",
       "source": "Binary Exploitation/ret2win-4/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Binary%20Exploitation/ret2win-4",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{ret2win_4_____________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Pwn/ret2win-4/challenge.yaml"
+      "manifest": "Jeopardy/Pwn/ret2win-4-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "IP What?",
@@ -100,8 +132,9 @@
       "source": "Blockchain/ip-what/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Blockchain/ip-what",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment",
+        "missing legacy type imported as StaticAttachment",
         "no player attachment files were present"
       ],
       "manifest": "Jeopardy/Blockchain/ip-what/challenge.yaml"
@@ -112,8 +145,9 @@
       "source": "Cryptography/cacing-besar-alaska/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/cacing-besar-alaska",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment",
+        "missing legacy type imported as StaticAttachment",
         "no player attachment files were present"
       ],
       "manifest": "Jeopardy/Crypto/cacing-besar-alaska/challenge.yaml"
@@ -124,8 +158,9 @@
       "source": "Cryptography/cra/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/cra",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Crypto/cra/challenge.yaml"
     },
@@ -135,8 +170,9 @@
       "source": "Cryptography/euclids-apprentice/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/euclids-apprentice",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Crypto/euclid-s-apprentice/challenge.yaml"
     },
@@ -145,11 +181,15 @@
       "category": "Crypto",
       "source": "Cryptography/geprek/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/geprek",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{geprek___________________________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Crypto/geprek/challenge.yaml"
+      "manifest": "Jeopardy/Crypto/geprek-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Hash 1: intro",
@@ -157,8 +197,9 @@
       "source": "Cryptography/hash-1-intro/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/hash-1-intro",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Crypto/hash-1-intro/challenge.yaml"
     },
@@ -168,8 +209,9 @@
       "source": "Cryptography/hash-2-one-way-function/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/hash-2-one-way-function",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Crypto/hash-2-one-way-function/challenge.yaml"
     },
@@ -178,11 +220,15 @@
       "category": "Crypto",
       "source": "Cryptography/hash-3-collision/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/hash-3-collision",
-      "type": "StaticAttachment",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{hash_3_collision___________________________________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Crypto/hash-3-collision/challenge.yaml"
+      "manifest": "Jeopardy/Crypto/hash-3-collision-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "OTP",
@@ -190,8 +236,9 @@
       "source": "Cryptography/otp/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/otp",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Crypto/otp/challenge.yaml"
     },
@@ -201,8 +248,9 @@
       "source": "Cryptography/white-space/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/white-space",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Crypto/white-space/challenge.yaml"
     },
@@ -212,8 +260,9 @@
       "source": "Cryptography/xor/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/xor",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Crypto/xor/challenge.yaml"
     },
@@ -223,8 +272,9 @@
       "source": "Cryptography/yowai-kagi/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Cryptography/yowai-kagi",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Crypto/yowai-kagi/challenge.yaml"
     },
@@ -234,8 +284,9 @@
       "source": "Forensics/aku-anak-foren/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Forensics/aku-anak-foren",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Forensics/aku-anak-foren/challenge.yaml"
     },
@@ -245,8 +296,9 @@
       "source": "Forensics/audio-images/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Forensics/audio-images",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment",
+        "missing legacy type imported as StaticAttachment",
         "no player attachment files were present"
       ],
       "manifest": "Jeopardy/Forensics/audio-images/challenge.yaml"
@@ -257,8 +309,9 @@
       "source": "Forensics/cracknosaurus/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Forensics/cracknosaurus",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Forensics/cracknosaurus/challenge.yaml"
     },
@@ -268,8 +321,9 @@
       "source": "Forensics/nearly-null/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Forensics/nearly-null",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Forensics/nearly-null/challenge.yaml"
     },
@@ -279,8 +333,9 @@
       "source": "Misc/retreat-from-base/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Misc/retreat-from-base",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Misc/retreat-from-base/challenge.yaml"
     },
@@ -290,8 +345,9 @@
       "source": "Reverse Engineering/babiest-rev/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Reverse%20Engineering/babiest-rev",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Reverse/babiest-rev/challenge.yaml"
     },
@@ -301,8 +357,9 @@
       "source": "Reverse Engineering/micro-rev/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Reverse%20Engineering/micro-rev",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Reverse/micro-rev/challenge.yaml"
     },
@@ -312,8 +369,9 @@
       "source": "Reverse Engineering/mini-rev/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Reverse%20Engineering/mini-rev",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Reverse/mini-rev/challenge.yaml"
     },
@@ -323,8 +381,9 @@
       "source": "Reverse Engineering/random-xor/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Reverse%20Engineering/random-xor",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Reverse/random-xor/challenge.yaml"
     },
@@ -334,8 +393,9 @@
       "source": "Web Exploitation/action-figures/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/action-figures",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Web/action-figures/challenge.yaml"
     },
@@ -345,8 +405,9 @@
       "source": "Web Exploitation/expath1/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/expath1",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Web/expath1/challenge.yaml"
     },
@@ -356,8 +417,9 @@
       "source": "Web Exploitation/literver/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/literver",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Web/litever/challenge.yaml"
     },
@@ -367,8 +429,9 @@
       "source": "Web Exploitation/oscommand/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/oscommand",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment",
+        "missing legacy type imported as StaticAttachment",
         "no player attachment files were present"
       ],
       "manifest": "Jeopardy/Web/oscommand/challenge.yaml"
@@ -379,8 +442,9 @@
       "source": "Web Exploitation/samehadaku-kw-after-ctf/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/samehadaku-kw-after-ctf",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Web/samehadaku-kw-after-ctf/challenge.yaml"
     },
@@ -390,8 +454,9 @@
       "source": "Web Exploitation/unlimited/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/unlimited",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment",
+        "missing legacy type imported as StaticAttachment",
         "no player attachment files were present"
       ],
       "manifest": "Jeopardy/Web/unlimited/challenge.yaml"
@@ -402,8 +467,9 @@
       "source": "Web Exploitation/web-jawat/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/web-jawat",
       "type": "StaticAttachment",
+      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
       "warnings": [
-        "missing legacy type converted to StaticAttachment"
+        "missing legacy type imported as StaticAttachment"
       ],
       "manifest": "Jeopardy/Web/jawat/challenge.yaml"
     }
