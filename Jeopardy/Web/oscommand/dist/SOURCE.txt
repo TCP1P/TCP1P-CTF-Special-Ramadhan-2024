@@ -1,5 +1,0 @@
-oscommand
-
-Original source: https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/oscommand
-
-Local archive note: no player attachment files were present.

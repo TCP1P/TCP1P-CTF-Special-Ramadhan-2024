@@ -1,0 +1,22 @@
+name: ExPath1
+author: beluga
+description: 'This challenge require you to exploit simple XPath Injection and retrieve flag inside of an XML Document.
+
+
+  Connect: http://103.185.44.122:33121
+
+
+  ---
+
+  Historical archive converted for RSCTF practice. Original service endpoints may no longer be online. [Review the source challenge](https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/expath1).'
+type: DynamicContainer
+category: Web
+minScoreRate: 0.01
+difficulty: 5
+disableBloodBonus: true
+flagTemplate: TCP1P{expath1_____________[TEAM_HASH]}
+container:
+  memoryLimit: 128
+  cpuCount: 1
+  exposePort: 5000
+  enableTrafficCapture: false

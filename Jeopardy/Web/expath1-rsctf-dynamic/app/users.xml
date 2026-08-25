@@ -1,0 +1,32 @@
+<users>
+    <user>
+        <username>John</username>
+    </user>
+    <user>
+        <username>Alice</username>
+    </user>
+    <user>
+        <username>Bob</username>
+    </user>
+    <user>
+        <username>Charlie</username>
+    </user>
+    <user>
+        <username>Eve</username>
+    </user>
+    <user>
+        <username>Frank</username>
+    </user>
+    <user>
+        <username>Grace</username>
+    </user>
+    <user>
+        <username>RSCTF_DYNAMIC_FLAG_c6e89aaed9ee78e2cac075e6</username>
+    </user>
+    <user>
+        <username>Isabel</username>
+    </user>
+    <user>
+        <username>Jack</username>
+    </user>
+</users>

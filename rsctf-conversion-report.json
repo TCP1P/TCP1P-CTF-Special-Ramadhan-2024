@@ -404,37 +404,45 @@
       "category": "Web",
       "source": "Web Exploitation/expath1/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/expath1",
-      "type": "StaticAttachment",
-      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type imported as StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{expath1_____________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 2 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Web/expath1/challenge.yaml"
+      "manifest": "Jeopardy/Web/expath1-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "litever",
       "category": "Web",
       "source": "Web Exploitation/literver/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/literver",
-      "type": "StaticAttachment",
-      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type imported as StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{litever__[TEAM_HASH]}'",
+        "dynamic flag delivery uses the SQLite flag row adapter",
+        "dynamic runtime compatibility rewrote 0 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Web/litever/challenge.yaml"
+      "manifest": "Jeopardy/Web/litever-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "oscommand",
       "category": "Web",
       "source": "Web Exploitation/oscommand/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/oscommand",
-      "type": "StaticAttachment",
-      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type imported as StaticAttachment",
-        "no player attachment files were present"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{oscommand_______________________________________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Web/oscommand/challenge.yaml"
+      "manifest": "Jeopardy/Web/oscommand-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Samehadaku KW After CTF",
@@ -453,25 +461,30 @@
       "category": "Web",
       "source": "Web Exploitation/unlimited/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/unlimited",
-      "type": "StaticAttachment",
-      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type imported as StaticAttachment",
-        "no player attachment files were present"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{unlimited_______________[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Web/unlimited/challenge.yaml"
+      "manifest": "Jeopardy/Web/unlimited-rsctf-dynamic/challenge.yaml"
     },
     {
       "name": "Jawat",
       "category": "Web",
       "source": "Web Exploitation/web-jawat/challenge.yaml",
       "sourceUrl": "https://github.com/TCP1P/TCP1P-CTF-Special-Ramadhan-2024/tree/main/Web%20Exploitation/web-jawat",
-      "type": "StaticAttachment",
-      "runtimeReason": "Docker context exceeds the portable size/file limits or contains a symlink",
+      "type": "DynamicContainer",
+      "runtimeReason": null,
       "warnings": [
-        "missing legacy type imported as StaticAttachment"
+        "portable single-service Docker runtime promoted from 'missing' to DynamicContainer",
+        "generated per-team flag template 'TCP1P{jawat_______[TEAM_HASH]}'",
+        "dynamic flag delivery proven through archived full flag literal",
+        "dynamic runtime compatibility rewrote 1 archived flag occurrence(s)"
       ],
-      "manifest": "Jeopardy/Web/jawat/challenge.yaml"
+      "manifest": "Jeopardy/Web/jawat-rsctf-dynamic/challenge.yaml"
     }
   ]
 }
