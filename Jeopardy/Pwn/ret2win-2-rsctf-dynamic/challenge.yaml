@@ -14,7 +14,7 @@ category: Pwn
 minScoreRate: 0.25
 difficulty: 5
 disableBloodBonus: false
-flagTemplate: TCP1P{ret2win_2___________________[TEAM_HASH]}
+flagTemplate: TCP1P{ret2win_2_[TEAM_HASH]}
 container:
   memoryLimit: 128
   cpuCount: 1
